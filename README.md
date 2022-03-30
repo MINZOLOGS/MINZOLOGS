@@ -26,8 +26,8 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="minzo logs" height="30" width="40" /></a>
   <a href="https://dsc.gg/raspsmp" target="blank"><img align="center"
-      src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670325.png?token=exp=1648630795~hmac=b2218ee0f39969e60f86cbc62e9bc2e6"
-      alt="minzo logs" height="30" width="40" /></a>
+      src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1648630811~hmac=0825519efecd6a05cf659e0d1fa9026b"
+      alt="minzo logs" height="40" width="40" /></a>
   <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="minzo logs" height="30" width="40" /></a>
