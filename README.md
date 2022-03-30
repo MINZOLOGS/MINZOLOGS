@@ -28,14 +28,14 @@
   <a href="https://www.youtube.com/channel/UCuNSlK-iwQ_VM4kA_JoJFYQ" target="blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
       alt="minzo logs" height="40" width="40" /></a>
-  <a href="[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)" target="blank"><img align="center"
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+  <a href="https://minzologs.github.io" target="blank"><img align="center"
+      src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178285.png?token=exp=1648631453~hmac=0182308d70eda5e8bb49626bf43d5750"
       alt="minzo logs" height="40" width="40" /></a>
  <a href="https://twitter.com/MINZOLOGS" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="minzo logs" height="40" width="40" /></a>
 </p>
-[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
