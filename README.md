@@ -28,7 +28,7 @@
   <a href="https://www.youtube.com/channel/UCuNSlK-iwQ_VM4kA_JoJFYQ" target="blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
       alt="minzo logs" height="40" width="40" /></a>
-  <a href="mailto:minzologs@gmail.com" target="blank"><img align="center"
+  <a href="[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)" target="blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
       alt="minzo logs" height="40" width="40" /></a>
  <a href="https://twitter.com/MINZOLOGS" target="blank"><img align="center"
