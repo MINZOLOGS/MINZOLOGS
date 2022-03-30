@@ -30,13 +30,13 @@
       alt="minzo logs" height="40" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCuNSlK-iwQ_VM4kA_JoJFYQ" target="blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
-      alt="minzo logs" height="30" width="40" /></a>
+      alt="minzo logs" height="40" width="40" /></a>
   <a href="mailto:minzologs@gmail.com" target="blank"><img align="center"
       src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
-      alt="minzo logs" height="30" width="40" /></a>
+      alt="minzo logs" height="40" width="40" /></a>
  <a href="https://twitter.com/MINZOLOGS" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="minzo logs" height="30" width="40" /></a>
+      alt="minzo logs" height="40" width="40" /></a>
 </p>
 
 <br>
